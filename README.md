@@ -8,58 +8,61 @@
 </p>
 
 - 🔭 I’m currently working on **Codepolitan Project**
-
 - 🌱 I’m currently learning **Express.js**
-
 - 💬 Ask me about **Node.js, Bootstrap, Express**
-
 - 📧 How to reach me **reyhan.123140022@student.itera.ac.id**
-
 - ⚡ Fun fact **I really like reading manhwa**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Reyhan Capri Moraga" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/reyhan-capri-moraga-422072295/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reyhan Capri Moraga" height="30" width="40" />
   </a>
-  <a href="https://fb.com/erfan.fernando.9" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="erfan.fernando.9" height="30" width="40" />
+  <a href="https://fb.com/erfan.fernando.9" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erfan.fernando.9" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/reannn22" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="reannn22" height="30" width="40" />
+  <a href="https://instagram.com/reannn22" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reannn22" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/ReyhanCapriMoraga" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Reyhan Capri Moraga" height="30" width="40" />
+  <a href="https://www.youtube.com/c/ReyhanCapriMoraga" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Reyhan Capri Moraga" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/h8NKfMQX" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Reyhan Capri Moraga Discord" height="30" width="40" />
+  <a href="https://discord.gg/h8NKfMQX" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reyhan Capri Moraga Discord" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/express.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://inclusioncloud.com/wp-content/uploads/2023/10/express-open-source.png" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reannn22&show_icons=true&locale=en&layout=compact" alt="reannn22" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reannn22&" alt="reannn22" /></p>
